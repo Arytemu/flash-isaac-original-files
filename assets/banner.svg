@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Flash Isaac — Original Files</title>
+  <desc id="desc">Dark archive banner with a red document symbol and a blue teardrop.</desc>
+  <rect width="1200" height="300" rx="22" fill="#141319"/>
+  <rect x="1" y="1" width="1198" height="298" rx="21" fill="none" stroke="#39313c" stroke-width="2"/>
+  <path d="M75 64h94l39 39v131H75z" fill="#28212c" stroke="#de777d" stroke-width="5"/>
+  <path d="M169 64v40h39M99 137h84M99 161h64M99 185h84" fill="none" stroke="#de777d" stroke-width="5"/>
+  <path d="M222 155c-11 17-25 34-25 47a25 25 0 0 0 50 0c0-13-14-30-25-47z" fill="#89c6df"/>
+  <text x="297" y="116" fill="#de777d" font-family="monospace" font-size="22" letter-spacing="5">THE FLASH ARCHIVE</text>
+  <text x="291" y="176" fill="#f2eced" font-family="sans-serif" font-weight="700" font-size="53">FLASH ISAAC</text>
+  <text x="296" y="223" fill="#bfb4c5" font-family="monospace" font-size="23" letter-spacing="4">ORIGINAL FILES · RELEASE 1.0</text>
+</svg>
